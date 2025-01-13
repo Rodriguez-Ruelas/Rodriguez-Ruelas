@@ -31,7 +31,7 @@ Implementación de cámaras de crecimiento y análisis de imágenes RGB e hipere
 
 ## 🛠️ Tecnologías y Habilidades
 
-- **Lenguajes de programación**: Arduino, C++, C#, R y Python (Pandas, OpenCV, Scikit-learn)  
+- **Lenguajes de programación**: Arduino, C++, C#, R y Python  
 - **Modelación**: Modelos mecanicistas y estocásticos en fisiología vegetal  
 - **Imágenes Multiespectrales**: Análisis y procesamiento de imágenes para evaluar el crecimiento y desarrollo de cultivos  
 - **Machine Learning**: Predicción del rendimiento de cultivos utilizando algoritmos avanzados  
