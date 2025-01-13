@@ -24,12 +24,12 @@ Implementación de cámaras de crecimiento y análisis de imágenes RGB e hipere
 
 ## 🛠️ Tecnologías y Habilidades
 
-- **Lenguajes de programación**: Python (Pandas, OpenCV, Scikit-learn)  
+- **Lenguajes de programación**: Arduino, C++, C#, R y Python (Pandas, OpenCV, Scikit-learn)  
 - **Modelación**: Modelos mecanicistas y estocásticos en fisiología vegetal  
-- **Imágenes Multiespectrales**: Análisis y procesamiento de imágenes para evaluar salud y crecimiento de cultivos  
+- **Imágenes Multiespectrales**: Análisis y procesamiento de imágenes para evaluar el crecimiento y desarrollo de cultivos  
 - **Machine Learning**: Predicción del rendimiento de cultivos utilizando algoritmos avanzados  
-- **Optimización**: Algoritmos genéticos y mejoras en sistemas de control agrícola  
-- **Tecnología Agrícola**: Diseño de cámaras de crecimiento y sensores multiespectrales para fenotipado automatizado  
+- **Optimización**: Técnicas de optimización basadas en machine learning para mejorar sistemas de control agrícola  
+- **Tecnología Agrícola**: Diseño de cámaras de crecimiento, fenotipado automatizado, sensores avanzados, tecnología LiDAR, etc
 - **Análisis de Datos**: Procesamiento e interpretación de datos experimentales para toma de decisiones  
 - **Control Ambiental**: Implementación de tecnologías para monitoreo de variables ambientales 
 
