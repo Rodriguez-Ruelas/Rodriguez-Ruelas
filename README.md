@@ -32,12 +32,15 @@ Implementación de cámaras de crecimiento y análisis de imágenes RGB e hipere
 
 ---
 
+<!--
 ## 📊 Estadísticas de GitHub
 
 ![Raúl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodriguez-Ruelas&show_icons=true&theme=radical)  
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguez-Ruelas&layout=compact&theme=radical)
 
 ---
+-->
+
 
 ## 🌍 Conectemos
 
