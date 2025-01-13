@@ -3,32 +3,57 @@
 
 ![bannerGrande](https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/bannerGrande.png)
 
-# Bienvenido a mi repositorio 🚀
+# 🌱 Raúl Rodríguez Ruelas | Innovación en Agricultura y Tecnología 🚀
 
-Este es un proyecto donde aplico modelación y machine learning en agricultura.
-
----
-
-## Características principales 🌟
-
-- Predicción de rendimientos
-- Uso de imágenes multiespectrales
-- Modelos abiertos y reproducibles
+¡Hola! Soy Raúl, un **Ingeniero Agrónomo** apasionado por la tecnología aplicada al crecimiento y desarrollo sostenible de los cultivos. Combino **modelación predictiva**, análisis de imágenes y **machine learning** para optimizar los sistemas agrícolas del futuro. 🍃
 
 ---
 
-## Instalación ⚙️
+## 🚀 Proyectos Destacados
 
-1. Clona este repositorio
-2. Instala las dependencias usando `pip install -r requirements.txt`
-3. Corre el proyecto con `python main.py`
+🔬 **Predicción de Rendimiento de Cultivos**  
+Utilizando datos multiespectrales y modelos estocásticos para mejorar la precisión en la estimación de rendimientos bajo condiciones controladas.
+
+🌡️ **Desarrollo de Microtúneles Controlados**  
+Diseñé y construí microtúneles para evaluar respuestas de cultivos a condiciones térmicas específicas.
+
+💻 **Fenotipado Automatizado**  
+Implementación de cámaras de crecimiento y análisis de imágenes RGB e hiperespectrales mediante herramientas de código abierto.
 
 ---
 
-## Contacto ✉️
+## 🛠️ Tecnologías y Habilidades
 
-¿Dudas o sugerencias? Escríbeme en [LinkedIn](https://www.linkedin.com/in/raul-rodriguez-ruelas-20634a171)
+- **Lenguajes de programación**: Python (Pandas, OpenCV, Scikit-learn)  
+- **Modelación**: Modelos mecanicistas y estocásticos en fisiología vegetal  
+- **Optimización**: Algoritmos genéticos, análisis de datos experimentales  
+- **Tecnología**: Diseño de cámaras de crecimiento y sensores multispectrales  
+- **Machine Learning**: Entrenamiento y validación de modelos predictivos  
 
+---
+
+## 📊 Estadísticas de GitHub
+
+![Raúl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodriguez-Ruelas&show_icons=true&theme=radical)  
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguez-Ruelas&layout=compact&theme=radical)
+
+---
+
+## 🌍 Conectemos
+
+💼 [LinkedIn](https://www.linkedin.com/in/raul-rodriguez-ruelas-20634a171)  
+📬 **Correo**: raul.rguez@example.com  
+🌐 **Portafolio**: [Mi Sitio Web](#)  
+
+---
+
+## 🌟 Fun Fact
+
+**Siempre aprendiendo:** Además de mi experiencia en agricultura, estudié **Psicología Clínica**. 🧠 Esto me permite conectar el comportamiento humano con la innovación tecnológica en sistemas agrícolas.
+
+---
+
+¡Gracias por visitar mi perfil! ¿Te interesa colaborar en un proyecto innovador? ¡Hablemos! 🚀
 
 
 <!--
