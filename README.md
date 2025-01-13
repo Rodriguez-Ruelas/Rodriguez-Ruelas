@@ -7,6 +7,13 @@
 
 ¡Hola! Soy Raúl, un **Ingeniero Agrónomo** apasionado por la tecnología aplicada al crecimiento y desarrollo sostenible de los cultivos. Combino **modelación predictiva**, análisis de imágenes y **machine learning** para optimizar los sistemas agrícolas del futuro. 🍃
 
+Como agrónomo, me he dado cuenta de que la tecnología es muy importante en la producción agrícola. Como profesionales agrícolas, pocas veces tenemos la oportunidad de diseñar nuestras propias herramientas; normalmente nos acoplamos a las propuestas comerciales. Y no me malinterpretes, para mis ojos son buenas, pero hay veces en que hay problemas tan específicos que no podemos esperar a que una compañía grande nos venga a solucionar el problema. Por esta razón, creo que la integración de los procesos fisiológicos, las variables bióticas y abióticas, y los sistemas de control son la respuesta a la optimización agrícola.
+
+En este perfil, tal vez encuentres proyectos que otra gente ya ha hecho o soluciones funcionales que ya están en el mercado. No obstante, la idea fundamental es que veas que, aún con poco presupuesto, se pueden adaptar ideas geniales con el uso de tecnologías open source. Estoy convencido de que la creatividad humana no tiene límites cuando se trata de resolver un problema.
+
+Aunado a esto, quiero enfatizar que no solo se trata de escribir código o construir equipos DIY. Mi objetivo es que las personas comprendan que no están solas en este camino de encontrar soluciones tecnológicas para el sector agrícola. El futuro de la agricultura depende de la colaboración, el intercambio de ideas y la aplicación práctica de la tecnología.
+
+“De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación.” — Dean Kamen, creador del Segway y el iBOT.
 ---
 
 ## 🚀 Proyectos Destacados
