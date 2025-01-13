@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![bannerGrande](https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/bannerGrande.png)
+
+
 <!--
 **Rodriguez-Ruelas/Rodriguez-Ruelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
