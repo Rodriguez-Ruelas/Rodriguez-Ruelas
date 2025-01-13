@@ -62,7 +62,9 @@ Implementación de cámaras de crecimiento y análisis de imágenes RGB e hipere
 
 ## 🌟 Fun Fact
 
-**Siempre aprendiendo:** Además de mi experiencia en agricultura, estudié **Psicología Clínica**. 🧠 Esto me permite conectar el comportamiento humano con la innovación tecnológica en sistemas agrícolas.
+**Siempre aprendiendo:** Además de mi experiencia en agricultura, estudié **Psicología Clínica**.
+
+** Musico por aficicion (Bass player)**
 
 ---
 
