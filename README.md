@@ -1,4 +1,8 @@
-## EN CONSTRUCCION 👋
+<div align="center">
+
+  <h1 style="font-size: 50px;">🚧 EN CONSTRUCCIÓN 👋 🚧</h1>
+
+</div>
 
 
 ![bannerGrande](https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/bannerGrande.png)
