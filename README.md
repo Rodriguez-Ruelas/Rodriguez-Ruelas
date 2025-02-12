@@ -11,7 +11,7 @@ Como agrónomo, me he dado cuenta de que la tecnología es muy importante en la 
 
 En este perfil, tal vez encuentres proyectos que otra gente ya ha hecho o soluciones funcionales que ya están en el mercado. No obstante, la idea fundamental es que veas que, aún con poco presupuesto, se pueden adaptar ideas geniales con el uso de tecnologías open source. Estoy convencido de que la creatividad humana no tiene límites cuando se trata de resolver un problema.
 
-Aunado a esto, quiero enfatizar que no solo se trata de escribir código o construir equipos DIY. Mi objetivo es que las personas comprendan que no están solas en este camino de encontrar soluciones tecnológicas para el sector agrícola. El futuro de la agricultura depende de la colaboración, el intercambio de ideas y la aplicación práctica de la tecnología.
+Aunado a esto, quiero enfatizar que no solo se trata de escribir código o construir equipos DIY. Mi objetivo es que las personas comprendan que no están solas en este camino de encontrar soluciones tecnológicas para el sector agrícola. El futuro de la agricultura depende de la colaboración, el intercambio de ideas y la aplicación práctica de la tecnología. Desde mi punto de vista, el pensamiento disruptivo, la innovación y la imaginación —y todo lo que hace especial al ser humano— radica en perder el miedo a hacer las cosas de forma diferente.
 
 “De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación.” — Dean Kamen, creador del Segway y el iBOT.
 ---
