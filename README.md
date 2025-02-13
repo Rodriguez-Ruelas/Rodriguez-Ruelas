@@ -4,6 +4,7 @@
 
 </div>
 
+Actualmente estoy organizando y depurando los proyectos, por lo que algunas secciones pueden estar incompletas o en desarrollo. Si tienes alguna pregunta, no dudes en contactarme.  
 
 ![bannerGrande](https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/bannerGrande.png)
 
