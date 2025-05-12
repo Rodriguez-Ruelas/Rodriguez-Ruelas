@@ -1,8 +1,8 @@
 ![bannerGrande](https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/bannerGrande.png)
 
-# 🌱 Raúl Rodríguez Ruelas | Innovación en Agricultura y Tecnología 🚀
+# 🌱 Raúl Rodríguez Ruelas | Innovación en Agricultura y Tecnología 
 
-oy **Raúl Rodríguez**, Ingeniero Agrónomo con especialidad en **fisiología vegetal**, enfocado en generar soluciones prácticas e innovadoras a los desafíos que enfrentan los sistemas de producción agrícola. A lo largo de mi trayectoria he combinado el conocimiento agronómico con tecnologías emergentes como la **modelación predictiva**, el **machine learning**, el **fenotipado de alto rendimiento** y el **análisis automatizado de datos**, con el objetivo de **mejorar la productividad, la sostenibilidad y la toma de decisiones en campo**.
+Soy **Raúl Rodríguez**, Ingeniero Agrónomo con especialidad en **fisiología vegetal**, enfocado en generar soluciones prácticas e innovadoras a los desafíos que enfrentan los sistemas de producción agrícola. A lo largo de mi trayectoria he combinado el conocimiento agronómico con tecnologías emergentes como la **modelación predictiva**, el **machine learning**, el **fenotipado de alto rendimiento** y el **análisis automatizado de datos**, con el objetivo de **mejorar la productividad, la sostenibilidad y la toma de decisiones en campo**.
 
 En la actualidad, la agricultura enfrenta una transformación profunda: la **generación masiva de datos agrícolas**. Esta evolución permite integrar simultáneamente información **fenológica, molecular, climática, ambiental, fisiológica y de rendimiento**, abriendo nuevas oportunidades para **comprender los sistemas productivos con mayor profundidad y precisión**.
 
