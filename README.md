@@ -2,13 +2,38 @@
 
 # 🌱 Raúl Rodríguez Ruelas | Innovación en Agricultura y Tecnología 🚀
 
-¡Hola! Soy Raúl, un **Ingeniero Agrónomo** apasionado por la tecnología aplicada al crecimiento y desarrollo sostenible de los cultivos. Combino **modelación predictiva**, análisis de imágenes y **machine learning** para optimizar los sistemas agrícolas del futuro. 🍃
+oy **Raúl Rodríguez**, Ingeniero Agrónomo con especialidad en **fisiología vegetal**, enfocado en generar soluciones prácticas e innovadoras a los desafíos que enfrentan los sistemas de producción agrícola. A lo largo de mi trayectoria he combinado el conocimiento agronómico con tecnologías emergentes como la **modelación predictiva**, el **machine learning**, el **fenotipado de alto rendimiento** y el **análisis automatizado de datos**, con el objetivo de **mejorar la productividad, la sostenibilidad y la toma de decisiones en campo**.
 
-Como agrónomo, me he dado cuenta de que la tecnología es muy importante en la producción agrícola. Como profesionales agrícolas, pocas veces tenemos la oportunidad de diseñar nuestras propias herramientas; normalmente nos acoplamos a las propuestas comerciales. Y no me malinterpretes, para mis ojos son buenas, pero hay veces en que hay problemas tan específicos que no podemos esperar a que una compañía grande nos venga a solucionar el problema. Por esta razón, creo que la integración de los procesos fisiológicos, las variables bióticas y abióticas, y los sistemas de control son la respuesta a la optimización agrícola.
+En la actualidad, la agricultura enfrenta una transformación profunda: la **generación masiva de datos agrícolas**. Esta evolución permite integrar simultáneamente información **fenológica, molecular, climática, ambiental, fisiológica y de rendimiento**, abriendo nuevas oportunidades para **comprender los sistemas productivos con mayor profundidad y precisión**.
 
-En este perfil, tal vez encuentres proyectos que otra gente ya ha hecho o soluciones funcionales que ya están en el mercado. No obstante, la idea fundamental es que veas que, aún con poco presupuesto, se pueden adaptar ideas geniales con el uso de tecnologías open source. Estoy convencido de que la creatividad humana no tiene límites cuando se trata de resolver un problema.
+Mi enfoque parte de esta visión: una **metodología integrativa orientada a sistemas**, que busca no solo resolver problemas puntuales, sino **optimizar procesos completos** dentro del sistema agrícola. Trabajo identificando y analizando **variables clave** que inciden directamente en el comportamiento y rendimiento de los cultivos, conectando múltiples escalas de observación: desde la planta individual hasta el manejo ambiental.
 
-Aunado a esto, quiero enfatizar que no solo se trata de escribir código o construir equipos DIY. Mi objetivo es que las personas comprendan que no están solas en este camino de encontrar soluciones tecnológicas para el sector agrícola. El futuro de la agricultura depende de la colaboración, el intercambio de ideas y la aplicación práctica de la tecnología. Desde mi punto de vista, el pensamiento disruptivo, la innovación y la imaginación —y todo lo que hace especial al ser humano— radica en perder el miedo a hacer las cosas de forma diferente.
+🔧 En mis proyectos aplico herramientas como:
+
+- **Cámaras de crecimiento con control ambiental**
+- **Plataformas de fenotipado de bajo costo y alto rendimiento**
+- **Modelos de predicción** (lineales, mecanicistas, estocásticos, basados en machine learning)
+- **Análisis automatizado** de datos fisiológicos, climáticos y de rendimiento
+
+Esta metodología permite abordar problemáticas clave como:
+
+- La **optimización de la nutrición vegetal**, asociada al desarrollo fenológico
+- El **mejoramiento del riego** bajo diferentes condiciones ambientales
+- El diseño de **planes de fertilización personalizados**
+- La **predicción del crecimiento y desarrollo de cultivos**
+- La generación de **modelos de alerta y control** para plagas y enfermedades
+
+Cada herramienta y modelo forma parte de un sistema articulado sobre el principio de la **interacción entre genotipo, fenotipo y ambiente (G×F×A)**. Este marco conceptual permite estructurar soluciones funcionales que integran ciencia, ingeniería y producción agrícola, generando estrategias de manejo **eficientes, adaptables y basadas en evidencia fisiológica y tecnológica**, con aplicaciones prácticas y escalables.
+
+---
+
+📊 **Diagrama representativo del enfoque metodológico:**
+
+<p align="center">
+  <img src="https://github.com/Rodriguez-Ruelas/Rodriguez-Ruelas/blob/main/Imagenes_README/fluxdiagram.PNG?raw=true" alt="Metodología integrativa orientada a sistemas" width="600">
+</p>
+
+<p align="center"><em>Metodología integrativa orientada a sistemas</em></p>
 
 “De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación.” — Dean Kamen, creador del Segway y el iBOT.
 ---
