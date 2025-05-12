@@ -77,8 +77,8 @@ Implementación de cámaras de crecimiento y análisis de imágenes RGB e hipere
 ## 🌍 Conectemos
 
 💼 [LinkedIn](https://www.linkedin.com/in/raul-rodriguez-ruelas-20634a171)  
-📬 **Correo**: raul.rguez@example.com  
-🌐 **Portafolio**: [Mi Sitio Web](#)  
+📬 **Correo**:   
+🌐 **Portafolio**:  
 
 ---
 
